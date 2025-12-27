@@ -14,5 +14,5 @@ Welcome to my GitHub profile.
 - Flask, pytest, Git/GitHub, GitHub Actions
 
 ### GitHub stats
-![Carson's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarsonV8824&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarsonV8824&layout=compact&theme=default)
+Stats card: ![Carson's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CarsonV8824&show_icons=true&theme=default)
+Top languages: ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CarsonV8824&layout=compact&theme=default)
