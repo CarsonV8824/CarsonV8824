@@ -21,7 +21,5 @@ Welcome to my GitHub profile.
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CarsonV8824&theme=github-dark)
 
----
-[![](https://hits.sh/github.com/CarsonV8824.svg?style=flat&label=Profile%20Views&color=dark)](https://hits.sh/github.com/CarsonV8824/)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
