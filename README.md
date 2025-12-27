@@ -2,21 +2,18 @@
 
 Welcome to my GitHub profile.
 
-### About me
-- 🔭 I am currently working on a Ticket to Ride game
-- 🌱 I am learning Data and AI at STA
-- 👯 I am open to collaborating on small utilities and game tooling
-- 💬 Ask me about Python, testing, or GitHub Actions
-- 📫 How to reach me: open an Issue or Discussion on this profile
+# 💫 About Me:
+- 🔭 I am currently working on a Ticket to Ride game<br>- 🌱 I am learning Data and AI at STA<br>- 👯 I am open to collaborating on small utilities and game 
 
-### Languages and tools
-- Python, JavaScript, SQL
-- Flask, pytest, Git/GitHub, GitHub Actions
 
-### GitHub stats
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=CarsonV8824&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=CarsonV8824&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CarsonV8824&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarsonV8824&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+---
+[![](https://hits.sh/github.com/CarsonV8824.svg?style=flat&label=Profile%20Views&color=dark)](https://hits.sh/github.com/CarsonV8824/)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=CarsonV8824&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarsonV8824&layout=compact&theme=dark&hide_border=true)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
