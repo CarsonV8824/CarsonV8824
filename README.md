@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there, I am Carson 👋
 
-<!--
-**CarsonV8824/CarsonV8824** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile.
 
-Here are some ideas to get you started:
+### About me
+- 🔭 I am currently working on a Ticket to Ride game
+- 🌱 I am learning Python, Backend, and cloud basics
+- 👯 I am open to collaborating on small utilities and game tooling
+- 💬 Ask me about Python, testing, or GitHub Actions
+- 📫 How to reach me: open an Issue or Discussion on this profile
 
-- 🔭 I’m currently working on Ticket to Ride
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and tools
+- Python, JavaScript, SQL
+- Flask, pytest, Git/GitHub, GitHub Actions
+
+### GitHub stats
+![Carson's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarsonV8824&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarsonV8824&layout=compact&theme=default)
