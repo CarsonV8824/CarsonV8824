@@ -15,12 +15,8 @@ Welcome to my GitHub profile.
 
 ### GitHub stats
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarsonV8824&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarsonV8824&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=CarsonV8824&theme=dark&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=CarsonV8824&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarsonV8824&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarsonV8824&layout=compact&theme=dark&hide_border=true)
