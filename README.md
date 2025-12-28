@@ -5,7 +5,7 @@ Welcome to my GitHub profile.
 # 💫 About Me:
 -🔭 I am currently working on a Ticket to Ride game
 
--🌱 I am learning Data and AI at STA
+-🌱 I am learning AI and Data Engineering at STA
 
 -👯 I am open to collaborating on small utilities and game 
 
