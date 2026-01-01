@@ -3,7 +3,7 @@
 Welcome to my GitHub profile.
 
 # 💫 About Me:
--🔭 I am currently working on a Ticket to Ride game
+-🔭 I am currently working on a Catan game
 
 -🌱 I am learning AI and Data Engineering at STA
 
