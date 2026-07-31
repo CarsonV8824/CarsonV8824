@@ -3,9 +3,9 @@
 Welcome to my GitHub profile.
 
 # 💫 About Me:
--🔭 I am currently working on related to Data Science
+-🔭 I am currently working on related to Data Science, ML, and Music
 
--🌱 I am learning AI and Data Engineering at STA
+-🌱 I am learning Computer Science at University
 
 -👯 I am open to collaborating on small utilities and game 
 
